@@ -51,13 +51,9 @@ S3 클라우드 스토리지와 통합된, AI기반 멀웨어 탐지 웹 애플�
 ## ⚙️ 동작 원리
 
 ![슬라이드18](https://github.com/dev1ck/vaiscan-box-web-backend/assets/96347313/ba99ea1c-4235-41d1-a4fe-6b87821e70c0)
-
 ![슬라이드19](https://github.com/dev1ck/vaiscan-box-web-backend/assets/96347313/97832761-3e41-4a0e-8a86-7d869877fee2)
-
 ![슬라이드20](https://github.com/dev1ck/vaiscan-box-web-backend/assets/96347313/fb09629c-b096-478a-8fda-9a7124e6fb10)
-
 ![슬라이드21](https://github.com/dev1ck/vaiscan-box-web-backend/assets/96347313/86463110-15ea-47b0-b481-e7dfab51a0c1)
-
 ![슬라이드22](https://github.com/dev1ck/vaiscan-box-web-backend/assets/96347313/88f0b0f8-c66d-41ab-9b4d-8c59e63f4e23)
 
 <br/>
