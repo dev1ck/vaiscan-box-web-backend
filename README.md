@@ -41,13 +41,9 @@ S3 클라우드 스토리지와 통합된, AI기반 멀웨어 탐지 웹 애플�
 ## ⚡ 기능 소개
 
 ![vAIscan_Box_2023](https://github.com/dev1ck/vaiscan-box-web-backend/assets/96347313/36b5e89f-27e5-4159-b198-4937c8af3297)
-
 ![슬라이드13](https://github.com/dev1ck/vaiscan-box-web-backend/assets/96347313/d16be9ca-d0df-4073-971b-5accb9a008ad)
-
 ![슬라이드14](https://github.com/dev1ck/vaiscan-box-web-backend/assets/96347313/ee546839-1c27-4f3d-8d0e-ad62e45ec3a9)
-
 ![슬라이드15](https://github.com/dev1ck/vaiscan-box-web-backend/assets/96347313/f15942ba-0e39-48ba-99d0-c0871e44daa5)
-
 ![슬라이드16](https://github.com/dev1ck/vaiscan-box-web-backend/assets/96347313/7d00d622-eabb-4047-a273-0c153cd19eab)
 
 <br/>
@@ -102,17 +98,3 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
-
-## Support
-
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
-
-## Stay in touch
-
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
-
-## License
-
-Nest is [MIT licensed](LICENSE).
