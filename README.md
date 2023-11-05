@@ -10,7 +10,7 @@ S3 클라우드 스토리지와 통합된, AI기반 멀웨어 탐지 웹 애플�
 
 ### 소개 영상
 
-![my_video](https://github.com/dev1ck/vaiscan-box-web-backend/assets/96347313/3c81daa9-2d81-4969-83b9-fe34ba8ba2fc)
+https://github.com/dev1ck/vaiscan-box-web-backend/assets/96347313/3c81daa9-2d81-4969-83b9-fe34ba8ba2fc
 
 <br/>
 
